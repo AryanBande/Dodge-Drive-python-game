@@ -1,0 +1,1 @@
+A simple game made in python using PyGame module.
